@@ -5,7 +5,7 @@
 | 欣都龙城 | 100m<sup>2</sup>| 7500元/月 | 2.47元/m<sup>2</sup>/天 | 面议   | 有    | 不明   | [链接](https://km.xzl.anjuke.com/zu/48493739/) | [欣都龙城1](#欣都龙城1) |
 | 欣都龙城 | 136m<sup>2</sup>|  11600元/月 | 2.79元/m<sup>2</sup>/天 | 面议   | 有    | 不明   | [链接](https://km.xzl.anjuke.com/zu/49239843/?from=lpdy) | [欣都龙城2](#欣都龙城2) |
 | 金尚俊园 | 135m<sup>2</sup>  |  8775元/月 | 2.14元/m<sup>2</sup>/天      | 面议   | 有    | 带    | [链接](https://km.xzl.anjuke.com/zu/48467195/?from=zuxzlls&pt=1) | [金尚俊园1](#金尚俊园1) |
-| 霖岚国际广场 | 168m<sup>2</sup>  |  9000元/月 | 1.76元/m<sup>2</sup>/天      | 面议   | 有    | 带    | [链接](https://km.xzl.anjuke.com/zu/48692263/) | [霖岚国际广场](#霖岚国际广场) |
+| 霖岚国际广场 | 168m<sup>2</sup>  |  9000元/月 | 1.76元/m<sup>2</sup>/天      | 面议   | 有    | 无    | [链接](https://km.xzl.anjuke.com/zu/48692263/) | [霖岚国际广场](#霖岚国际广场) |
 
 
 
@@ -34,6 +34,8 @@
 ![办公室](https://pic1.ajkimg.com/display/hj/895e9af270130b52add39d860daa72a0/600x450.jpg?t=1)
 
 ![办公室1](https://pic1.ajkimg.com/display/hj/1bde4326500d499144683d09f46a1b88/600x450.jpg?t=1)
+
+
 ## 金尚俊园1
 
 ![全景](https://pic1.ajkimg.com/display/hj/8c3cbf7e134687134b8da366216b3037/600x450.jpg?t=1)
