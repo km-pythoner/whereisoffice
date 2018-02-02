@@ -5,6 +5,7 @@
 | 财智心景 | 白云路地铁站B口 |  121m<sup>2</sup> | 10100元/月 | 2.74元/m<sup>2</sup>/天 | 面议 | 有 | 无 | [链接](https://km.xzl.anjuke.com/zu/47293854/) | [财智心景1](#财智心景1)|
 | 欣都龙城 |  北辰地铁站C口 |100m<sup>2</sup>| 7500元/月 | 2.47元/m<sup>2</sup>/天 | 面议   | 有    | 不明   | [链接](https://km.xzl.anjuke.com/zu/48493739/) | [欣都龙城1](#欣都龙城1) |
 | 欣都龙城 |  北辰地铁站C口 | 136m<sup>2</sup>|  11600元/月 | 2.79元/m<sup>2</sup>/天 | 面议   | 有    | 不明   | [链接](https://km.xzl.anjuke.com/zu/49239843/?from=lpdy) | [欣都龙城2](#欣都龙城2) |
+| 欣都龙城 |  北辰地铁站C口 | 121m<sup>2</sup>|  9680元/月 | 2.63元/m<sup>2</sup>/天 | 面议   | 有    | 不明   | [链接](https://km.xzl.anjuke.com/zu/48977279/?from=zuxzlls&pt=1) | [欣都龙城3](#欣都龙城3) |
 | 金尚俊园 | 距白云路地铁站1.2公里 | 135m<sup>2</sup>  |  8775元/月 | 2.14元/m<sup>2</sup>/天      | 面议   | 有    | 带    | [链接](https://km.xzl.anjuke.com/zu/48467195/?from=zuxzlls&pt=1) | [金尚俊园1](#金尚俊园1) |
 | 霖岚国际广场 |  距火车北站地铁站1.4公里 | 168m<sup>2</sup>  |  9000元/月 | 1.76元/m<sup>2</sup>/天      | 面议   | 有    |  不明   | [链接](https://km.xzl.anjuke.com/zu/48692263/) | [霖岚国际广场](#霖岚国际广场) |
 
@@ -43,6 +44,18 @@
 
 ![办公室1](https://pic1.ajkimg.com/display/hj/1bde4326500d499144683d09f46a1b88/600x450.jpg?t=1)
 
+
+## 欣都龙城3
+
+![户型图](https://pic1.ajkimg.com/display/hj/00e69634c1e3f001c00fec8dd3f1ee43/600x450.jpg?t=1)
+
+![接待区](https://pic1.ajkimg.com/display/hj/35843388becd3f8f1609bea464d76bb1/600x450.jpg?t=1)
+
+![公共区](https://pic1.ajkimg.com/display/hj/e3e641033867913fb13b71dc1f8ad080/600x450.jpg?t=1)
+
+![办公区](https://pic1.ajkimg.com/display/hj/58bb0d0c7aae38f143793fa66883ca62/600x450.jpg?t=1)
+
+![办公区1](https://pic1.ajkimg.com/display/hj/63890387e3e426db67cb0f70d89b098d/600x450.jpg?t=1)
 
 ## 金尚俊园1
 
