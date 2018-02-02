@@ -3,7 +3,7 @@
 |楼盘|建筑面积|月租|单价|物业费|装修|家居|链接|详情|
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 欣都龙城 | 100m<sup>2</sup>| 7500元/月 | 2.47元/m<sup>2</sup>/天 | 面议   | 有    | 不明   | [链接](https://km.xzl.anjuke.com/zu/48493739/) | [欣都龙城1](#欣都龙城1) |
-| 欣都龙城 | 135m<sup>2</sup>  |  8775元/月 | 2.14元/m<sup>2</sup>/天      | 面议   | 有    | 带    | [链接](https://km.xzl.anjuke.com/zu/48467195/?from=zuxzlls&pt=1) | [欣都龙城2](#欣都龙城2) |
+| 金尚俊园 | 135m<sup>2</sup>  |  8775元/月 | 2.14元/m<sup>2</sup>/天      | 面议   | 有    | 带    | [链接](https://km.xzl.anjuke.com/zu/48467195/?from=zuxzlls&pt=1) | [金尚俊园1](#金尚俊园1) |
 
 
 
@@ -21,7 +21,7 @@
 
 ![办公空间](https://pic1.ajkimg.com/display/hj/3cf53943fe18239b1067bde85de59de8/600x450.jpg?t=1)
 
-## 欣都龙城2
+## 金尚俊园1
 
 ![全景](https://pic1.ajkimg.com/display/hj/8c3cbf7e134687134b8da366216b3037/600x450.jpg?t=1)
 
