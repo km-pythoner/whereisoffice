@@ -2,6 +2,7 @@
 
 |楼盘|建筑面积|月租|单价|物业费|装修|家居|链接|详情|
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 财智心景 |  121m<sup>2</sup> | 10100元/月 | 2.74元/m<sup>2</sup>/天 | 面议 | 有 | 无 | [链接](https://km.xzl.anjuke.com/zu/47293854/) | [财智心景1](#财智心景1)|
 | 欣都龙城 | 100m<sup>2</sup>| 7500元/月 | 2.47元/m<sup>2</sup>/天 | 面议   | 有    | 不明   | [链接](https://km.xzl.anjuke.com/zu/48493739/) | [欣都龙城1](#欣都龙城1) |
 | 欣都龙城 | 136m<sup>2</sup>|  11600元/月 | 2.79元/m<sup>2</sup>/天 | 面议   | 有    | 不明   | [链接](https://km.xzl.anjuke.com/zu/49239843/?from=lpdy) | [欣都龙城2](#欣都龙城2) |
 | 金尚俊园 | 135m<sup>2</sup>  |  8775元/月 | 2.14元/m<sup>2</sup>/天      | 面议   | 有    | 带    | [链接](https://km.xzl.anjuke.com/zu/48467195/?from=zuxzlls&pt=1) | [金尚俊园1](#金尚俊园1) |
@@ -9,6 +10,13 @@
 
 
 
+## 财智心景1
+
+![地面](https://pic1.ajkimg.com/display/hj/6d6a49c161e334d4378ee9d54a298637/600x450.jpg?t=1)
+
+![地板](https://pic1.ajkimg.com/display/hj/dff33aff3f8544287f412135a779e528/600x450.jpg?t=1)
+
+![入户](https://pic1.ajkimg.com/display/hj/6ddbc424307d68438e4b4c08c61a868a/600x450.jpg?t=1)
 
 ## 欣都龙城1                      
 
