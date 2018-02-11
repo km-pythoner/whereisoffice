@@ -10,7 +10,7 @@
 | 淘宝 | ThinkPad | T430 | 2012 | 非全新 | 2598 | i7-3740qm | 8G | 500G + 120G SSD |  集成 | [链接](https://item.taobao.com/item.htm?spm=a230r.1.14.1.3d5c1849HqMXjG&id=42509038306&ns=1&abbucket=7#detail) |
 | | | | | | | | | | | |
 |  京东  | 小米  |:+1: Pro 15.6   | 2017 | 全新 | 6999  | i7-8550U | 16G  |  256G  | 2G 独显 MX150 | [链接](https://item.jd.com/5456134.html) |
-|  京东  | DELL  |Latitude 5280 12.5| 2017 | 全新 | 6799  | I5-7200U | 16G  |  256G  | 集显 | [链接](https://item.jd.com/13134129128.html#crumb-wrap) |
+|  京东  | DELL  |:+1: Latitude 5280 12.5| 2017 | 全新 | 6799  | I5-7200U | 16G  |  256G  | 集显 | [链接](https://item.jd.com/13134129128.html#crumb-wrap) |
 
 
 
